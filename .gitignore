@@ -1,5 +1,10 @@
 /*
+/Code/*
+/Code/User/*
 /git/*
+!/Code/
+!/Code/User/
+!/Code/User/settings.json
 !/.gitignore
 !/git/
 !/git/config
