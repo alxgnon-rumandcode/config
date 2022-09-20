@@ -35,8 +35,8 @@ set number
 
 set shiftwidth=4
 set smartcase
-set softtabstop=4
 
+set softtabstop=4
 set splitbelow
 set tabstop=8
 
