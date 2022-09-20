@@ -1,0 +1,8 @@
+[user]
+	name = Alexandre Gagnon
+	email = alexandre.gagnon@rumandcode.io
+	username = alxgnon-rumandcode
+[init]
+	defaultBranch = master
+[pull]
+	rebase = false
