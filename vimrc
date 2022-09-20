@@ -1,8 +1,7 @@
 set nocompatible
 filetype off
 
-let hostname = system('hostname')[:-2]
-if hostname == 'macbook.local'
+if system('hostname')[:-2] == 'macbook.local'
     set rtp+=/opt/homebrew/opt/fzf
 endif
 
