@@ -1,6 +1,5 @@
 {
     "diffEditor.ignoreTrimWhitespace": false,
-    "editor.cursorBlinking": "solid",
     "editor.fontFamily": "Source Code Pro",
     "editor.fontLigatures": true,
     "editor.formatOnPaste": true,
